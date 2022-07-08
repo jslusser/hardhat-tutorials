@@ -19,12 +19,12 @@
     "deploy-mandala:CI": "hardhat run scripts/deploy.js --network mandalaCI"
   },
   "devDependencies": {
-    "@acala-network/eth-providers": "^2.4.11",
-    "@nomiclabs/hardhat-ethers": "^2.0.2",
-    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "@acala-network/eth-providers": "^2.4.16",
+    "@nomiclabs/hardhat-ethers": "^2.0.6",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
     "@polkadot/api": "8.1.1",
-    "chai": "^4.3.4",
-    "ethereum-waffle": "^3.4.0",
-    "ethers": "~5.5.0"
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.6.9"
   }
 }
